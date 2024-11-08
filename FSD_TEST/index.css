@@ -1,0 +1,15 @@
+.form-container {
+    margin: 30% auto;
+    display: block;
+    width:500px;
+    text-align:center;
+  }
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 6px;
+    margin: 2px 0;
+    border: none;
+    cursor: pointer;
+  }
+  
